@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002747967196",
+    "firebase_url": "https://flash-chat-25596.firebaseio.com",
+    "project_id": "flash-chat-25596",
+    "storage_bucket": "flash-chat-25596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002747967196:android:21c78f1d7e7b7a6ec52619",
+        "android_client_info": {
+          "package_name": "com.thlvu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002747967196-360er2cdl6aaidf7hsplvsk4u5ufjc0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfn45SeFbbiH2ZuYu1UK2DMuem3AXVWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002747967196-360er2cdl6aaidf7hsplvsk4u5ufjc0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
